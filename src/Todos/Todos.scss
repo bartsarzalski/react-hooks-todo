@@ -1,0 +1,9 @@
+.group {
+    display: flex;
+    flex-direction: column;
+
+    label:hover {
+        cursor: pointer;
+        font-weight: bold;
+    }
+}
